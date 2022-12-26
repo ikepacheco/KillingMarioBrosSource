@@ -1,0 +1,2 @@
+D:\Disco D\Jason\Lenguajes\Unity\MarioBros\MarioBros\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Disco D\Jason\Lenguajes\Unity\MarioBros\MarioBros\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
